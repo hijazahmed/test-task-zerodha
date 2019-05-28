@@ -1,0 +1,7 @@
+Jinja2
+CherryPy
+redis==3.2.1
+beautifulsoup4
+wget
+lxml
+pandas
